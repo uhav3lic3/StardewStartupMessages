@@ -1,6 +1,6 @@
 namespace StardewStartupMessages;
 
-public class TestMod
+public class ModEntry
 {
-    
+    //write
 }
